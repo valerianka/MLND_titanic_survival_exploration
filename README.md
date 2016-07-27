@@ -1,6 +1,8 @@
 # Project 0: Introduction and Fundamentals
 ## Titanic Survival Exploration
 
+This is a completed project from Udacity Machine Learning Nanodegree curriculum. It explores Titanic Survival Dataset as an introduction level project.
+
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:
@@ -16,7 +18,7 @@ Udacity recommends our students install [Anaconda](https://www.continuum.io/down
 
 ### Code
 
-Template code is provided in the notebook `titanic_survival_exploration.ipynb` notebook file. Additional supporting code can be found in `titanic_visualizations.py`. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project.
+Completed code is provided in the notebook `titanic_survival_exploration.ipynb` notebook file. Additional supporting code can be found in `titanic_visualizations.py`. 
 
 ### Run
 
@@ -31,6 +33,8 @@ ipython notebook titanic_survival_exploration.ipynb
 ```
 
 This will open the iPython Notebook software and project file in your web browser.
+
+Completed project report in HTML format is available under 'Titanic_Survival_Exploration.html'
 
 ## Data
 
